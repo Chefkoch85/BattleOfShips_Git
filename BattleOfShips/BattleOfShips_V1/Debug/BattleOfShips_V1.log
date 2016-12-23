@@ -1,0 +1,20 @@
+﻿Der Buildvorgang wurde am 23.12.2016 04:55:15 gestartet.
+     1>Projekt "F:\PROGRAMM\VS 2015\BattleOfShips\BattleOfShips_V1\BattleOfShips_V1.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         D:\Prog\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Game.cpp Level.cpp
+         Level.cpp
+         Game.cpp
+         Code wird generiert...
+       Link:
+         D:\Prog\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\PROGRAMM\VS 2015\BattleOfShips\Debug\BattleOfShips_V1.exe" /INCREMENTAL /NOLOGO d3d10.lib d3dx10d.lib d3d9.lib d3dx9.lib dxerr.lib dxguid.lib dinput8.lib winmm.lib comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"F:\PROGRAMM\VS 2015\BattleOfShips\Debug\BattleOfShips_V1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\PROGRAMM\VS 2015\BattleOfShips\Debug\BattleOfShips_V1.lib" /MACHINE:X86 Debug\BattleShip.obj
+         Debug\Console.obj
+         Debug\Game.obj
+         Debug\Level.obj
+         Debug\Player.obj
+         Debug\Ship.obj
+         BattleOfShips_V1.vcxproj -> F:\PROGRAMM\VS 2015\BattleOfShips\Debug\BattleOfShips_V1.exe
+     1>Die Erstellung von Projekt "F:\PROGRAMM\VS 2015\BattleOfShips\BattleOfShips_V1\BattleOfShips_V1.vcxproj" ist abgeschlossen (Build Ziel(e)).
+
+Der Buildvorgang wurde erfolgreich ausgeführt.
+
+Verstrichene Zeit 00:00:01.12
